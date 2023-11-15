@@ -1,0 +1,47 @@
+
+.flex-container {
+    border: 10px solid black;
+}
+
+.flex-item {
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 4px 2px 0 rgba(0, 0, 0, 0.2);
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.item-1 {
+    background-color: red;
+}
+
+.item-2 {
+    background-color: orange;
+}
+
+.item-3 {
+    background-color: yellow;
+}
+
+.item-4 {
+    background-color: green;
+}
+
+.item-5 {
+    background-color: blue;
+}
+
+.item-6 {
+    background-color: blueviolet;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    min-height: 100vh;
+}
+
+.flex-item {
+    width: 33.33%    
+}
