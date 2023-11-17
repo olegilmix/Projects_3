@@ -1,5 +1,5 @@
 const typed = new Typed('.multiple-text', {
-    strings: ['HTML + CSS', 'JavaScript', 'FlexBox', 'Grid'],
+    strings: ['Adobe Photoshop', 'Adobe indesign', 'Corel Draw', 'Illusrator'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
